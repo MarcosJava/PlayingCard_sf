@@ -102,11 +102,7 @@ class PlayingCardView: UIView {
                 cardBackImage.draw(in: bounds)
             }
         }
-        
-        
     }
- 
-
 }
 
 extension PlayingCardView {
